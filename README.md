@@ -5,7 +5,12 @@ Copy this file into a public repository named exactly: eulogep/eulogep
 
 <div align="center">
 
-# Hi, I'm Euloge Junior MABIALA 👋
+<img src="https://github.com/eulogep.png" width="160" height="160" style="border-radius: 50%;" alt="Euloge Junior MABIALA" />
+
+<br/>
+<br/>
+
+# Hi, I'm Euloge 👋
 
 ### AI & Software Engineering Student  
 **Building AI agents, semantic tools, cybersecurity projects and intelligent learning platforms.**
