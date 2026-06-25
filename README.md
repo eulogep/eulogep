@@ -275,7 +275,7 @@ Learning apps   → platforms that help students organize, revise and progress
   <img src="https://img.shields.io/badge/Portfolio-coming%20soon-FF7A00?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/euloge-junior-mabiala?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
   <img src="https://img.shields.io/badge/LinkedIn-add%20link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
