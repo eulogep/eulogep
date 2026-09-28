@@ -23,6 +23,8 @@ I turn vague ideas into working products,
 then test, document and improve them.
 ```
 
+<img src="./assets/focus-map.svg" width="100%" alt="Engineering focus map" />
+
 ---
 
 ## `> featured_projects`
@@ -69,12 +71,7 @@ then test, document and improve them.
 
 ## `> system_status`
 
-```text
-[building]   Engineer Learning OS + practical AI / automation systems
-[learning]   system design • agent engineering • local-first architecture
-[exploring]  AI integrated into real user workflows
-[mode]       build → test → learn → improve
-```
+<img src="./assets/system-status.svg" width="100%" alt="Current engineering status" />
 
 ---
 
@@ -119,11 +116,4 @@ then test, document and improve them.
 
 <br/>
 
-<div align="center">
-
-```text
-euloge@github:~$ echo "ideas > code > impact"
-ideas > code > impact
-```
-
-</div>
+<img src="./assets/footer-terminal.svg" width="100%" alt="Ideas to code to impact" />
