@@ -1,0 +1,8 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="f" x1="80" y1="0" x2="1120" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#39FFB6"/><stop offset=".5" stop-color="#40C9FF"/><stop offset="1" stop-color="#F2B84B"/></linearGradient></defs>
+<rect width="1200" height="150" rx="22" fill="#0D1117"/><rect x="1" y="1" width="1198" height="148" rx="21" stroke="#203F38"/>
+<text x="48" y="55" fill="#8B949E" font-family="monospace" font-size="18">euloge@github:~$ echo</text>
+<text x="270" y="55" fill="url(#f)" font-family="monospace" font-size="22" font-weight="700">"ideas &gt; code &gt; impact"</text>
+<text x="48" y="100" fill="#39FFB6" font-family="monospace" font-size="21">ideas &gt; code &gt; impact</text>
+<rect x="300" y="82" width="10" height="24" fill="#39FFB6"><animate attributeName="opacity" values="1;0;1" dur="1.05s" repeatCount="indefinite"/></rect>
+</svg>
