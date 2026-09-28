@@ -1,0 +1,27 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="360" rx="22" fill="#0D1117"/>
+<rect x="1" y="1" width="1198" height="358" rx="21" stroke="#203F38"/>
+<text x="40" y="50" fill="#40C9FF" font-family="monospace" font-size="20">/home/euloge/focus-map</text>
+<line x1="40" y1="68" x2="1160" y2="68" stroke="#1F3833"/>
+<g font-family="monospace">
+  <rect x="50" y="105" width="245" height="150" rx="16" fill="#101816" stroke="#245847"/>
+  <text x="72" y="137" fill="#39FFB6" font-size="16">AI / AGENTS</text>
+  <text x="72" y="172" fill="#F0F6FC" font-size="18">automation</text><text x="72" y="198" fill="#F0F6FC" font-size="18">RAG &amp; tooling</text><text x="72" y="224" fill="#8B949E" font-size="15">practical systems</text>
+
+  <rect x="335" y="105" width="245" height="150" rx="16" fill="#10161A" stroke="#20536A"/>
+  <text x="357" y="137" fill="#40C9FF" font-size="16">SOFTWARE</text>
+  <text x="357" y="172" fill="#F0F6FC" font-size="18">full-stack</text><text x="357" y="198" fill="#F0F6FC" font-size="18">architecture</text><text x="357" y="224" fill="#8B949E" font-size="15">products that ship</text>
+
+  <rect x="620" y="105" width="245" height="150" rx="16" fill="#17150F" stroke="#615129"/>
+  <text x="642" y="137" fill="#F2B84B" font-size="16">SECURITY</text>
+  <text x="642" y="172" fill="#F0F6FC" font-size="18">local-first</text><text x="642" y="198" fill="#F0F6FC" font-size="18">privacy-aware</text><text x="642" y="224" fill="#8B949E" font-size="15">defensive tooling</text>
+
+  <rect x="905" y="105" width="245" height="150" rx="16" fill="#11151B" stroke="#394558"/>
+  <text x="927" y="137" fill="#C9D1D9" font-size="16">ENGINEERING</text>
+  <text x="927" y="172" fill="#F0F6FC" font-size="18">test</text><text x="927" y="198" fill="#F0F6FC" font-size="18">document</text><text x="927" y="224" fill="#8B949E" font-size="15">iterate with evidence</text>
+
+  <path d="M295 180H335M580 180H620M865 180H905" stroke="#39FFB6" stroke-width="2" stroke-dasharray="6 8" opacity=".7"/>
+  <text x="50" y="310" fill="#8B949E" font-size="15">north_star:</text>
+  <text x="162" y="310" fill="#39FFB6" font-size="17">turn ideas into reliable, useful software</text>
+</g>
+</svg>
