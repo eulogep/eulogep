@@ -1,0 +1,33 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="430" rx="22" fill="#0D1117"/>
+<rect x="1" y="1" width="1198" height="428" rx="21" stroke="#22303A"/>
+<text x="34" y="42" fill="#40C9FF" font-family="monospace" font-size="17">/home/euloge/selected-work</text>
+<line x1="34" y1="58" x2="1166" y2="58" stroke="#1F2A33"/>
+
+<g transform="translate(34 82)">
+<rect width="1132" height="94" rx="14" fill="#101915" stroke="#1D5947"/>
+<circle cx="24" cy="24" r="5" fill="#39FFB6"/>
+<text x="42" y="29" fill="#39FFB6" font-family="monospace" font-size="14">01 / ENGINEER LEARNING OS</text>
+<text x="24" y="57" fill="#F0F6FC" font-family="monospace" font-size="18" font-weight="700">Problem → passive learning hides real mastery</text>
+<text x="24" y="81" fill="#9AA6B2" font-family="monospace" font-size="14">Solution → local-first evidence ledger, grounded quizzes, spaced retrieval, document provenance</text>
+<text x="832" y="57" fill="#39FFB6" font-family="monospace" font-size="13">Next.js • TS • PDF.js • Docling</text>
+</g>
+
+<g transform="translate(34 194)">
+<rect width="1132" height="94" rx="14" fill="#0E1820" stroke="#1D4B61"/>
+<circle cx="24" cy="24" r="5" fill="#40C9FF"/>
+<text x="42" y="29" fill="#40C9FF" font-family="monospace" font-size="14">02 / FACELENS</text>
+<text x="24" y="57" fill="#F0F6FC" font-family="monospace" font-size="18" font-weight="700">Problem → compare facial images without sending a biometric corpus to a third party</text>
+<text x="24" y="81" fill="#9AA6B2" font-family="monospace" font-size="14">Solution → self-hosted local similarity workspace with corpus control, deletion and API protection</text>
+<text x="855" y="57" fill="#40C9FF" font-family="monospace" font-size="13">Python • Docker • React • CV</text>
+</g>
+
+<g transform="translate(34 306)">
+<rect width="1132" height="94" rx="14" fill="#1A1710" stroke="#675327"/>
+<circle cx="24" cy="24" r="5" fill="#F2B84B"/>
+<text x="42" y="29" fill="#F2B84B" font-family="monospace" font-size="14">03 / IP GEOLOCATION + THREAT INTELLIGENCE</text>
+<text x="24" y="57" fill="#F0F6FC" font-family="monospace" font-size="18" font-weight="700">Problem → turn raw IP data into a usable security-oriented interface</text>
+<text x="24" y="81" fill="#9AA6B2" font-family="monospace" font-size="14">Solution → FastAPI backend, async external APIs, validation, interactive map, Dockerized services</text>
+<text x="833" y="57" fill="#F2B84B" font-family="monospace" font-size="13">Python • FastAPI • NiceGUI • Docker</text>
+</g>
+</svg>
