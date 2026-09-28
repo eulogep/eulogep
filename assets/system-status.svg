@@ -1,0 +1,29 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="40" y1="20" x2="1120" y2="260" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#39FFB6"/><stop offset=".55" stop-color="#40C9FF"/><stop offset="1" stop-color="#F2B84B"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="300" rx="22" fill="#0D1117"/>
+<rect x="1" y="1" width="1198" height="298" rx="21" stroke="#23493F"/>
+<text x="38" y="48" fill="#39FFB6" font-family="monospace" font-size="20">euloge@system:~$ status --verbose</text>
+<line x1="38" y1="66" x2="1162" y2="66" stroke="#1E3A34"/>
+
+<g font-family="monospace">
+  <circle cx="53" cy="103" r="6" fill="#39FFB6"><animate attributeName="opacity" values="1;.35;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  <text x="72" y="110" fill="#8B949E" font-size="16">BUILDING</text>
+  <text x="190" y="110" fill="#F0F6FC" font-size="18">Engineer Learning OS + practical AI / automation systems</text>
+
+  <circle cx="53" cy="148" r="6" fill="#40C9FF"><animate attributeName="opacity" values=".4;1;.4" dur="2.2s" repeatCount="indefinite"/></circle>
+  <text x="72" y="155" fill="#8B949E" font-size="16">LEARNING</text>
+  <text x="190" y="155" fill="#F0F6FC" font-size="18">system design • agent engineering • local-first architecture</text>
+
+  <circle cx="53" cy="193" r="6" fill="#F2B84B"><animate attributeName="opacity" values="1;.45;1" dur="2.6s" repeatCount="indefinite"/></circle>
+  <text x="72" y="200" fill="#8B949E" font-size="16">EXPLORING</text>
+  <text x="190" y="200" fill="#F0F6FC" font-size="18">AI integrated into real user workflows</text>
+
+  <text x="38" y="253" fill="#39FFB6" font-size="18">MODE</text>
+  <text x="110" y="253" fill="url(#g)" font-size="20" font-weight="700">build → test → learn → improve</text>
+  <rect x="465" y="235" width="10" height="23" fill="#39FFB6"><animate attributeName="opacity" values="1;0;1" dur="1.05s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
