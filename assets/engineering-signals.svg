@@ -1,0 +1,38 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="250" rx="22" fill="#0D1117"/>
+<rect x="1" y="1" width="1198" height="248" rx="21" stroke="#22303A"/>
+<text x="34" y="42" fill="#39FFB6" font-family="monospace" font-size="17">euloge@system:~$ engineering-signals --summary</text>
+<line x1="34" y1="58" x2="1166" y2="58" stroke="#1F2A33"/>
+
+<g transform="translate(34 84)">
+<rect width="260" height="126" rx="14" fill="#101915" stroke="#1D5947"/>
+<text x="20" y="29" fill="#39FFB6" font-family="monospace" font-size="13">BUILD MODE</text>
+<text x="20" y="63" fill="#F0F6FC" font-family="monospace" font-size="24" font-weight="700">PRODUCT > DEMO</text>
+<text x="20" y="92" fill="#9AA6B2" font-family="monospace" font-size="13">ship usable systems</text>
+<text x="20" y="111" fill="#9AA6B2" font-family="monospace" font-size="13">document the reasoning</text>
+</g>
+
+<g transform="translate(314 84)">
+<rect width="260" height="126" rx="14" fill="#0E1820" stroke="#1D4B61"/>
+<text x="20" y="29" fill="#40C9FF" font-family="monospace" font-size="13">ARCHITECTURE</text>
+<text x="20" y="63" fill="#F0F6FC" font-family="monospace" font-size="24" font-weight="700">LOCAL-FIRST</text>
+<text x="20" y="92" fill="#9AA6B2" font-family="monospace" font-size="13">clear ownership</text>
+<text x="20" y="111" fill="#9AA6B2" font-family="monospace" font-size="13">privacy-aware flows</text>
+</g>
+
+<g transform="translate(594 84)">
+<rect width="260" height="126" rx="14" fill="#1A1710" stroke="#675327"/>
+<text x="20" y="29" fill="#F2B84B" font-family="monospace" font-size="13">ENGINEERING LOOP</text>
+<text x="20" y="63" fill="#F0F6FC" font-family="monospace" font-size="24" font-weight="700">TEST > LEARN</text>
+<text x="20" y="92" fill="#9AA6B2" font-family="monospace" font-size="13">verify assumptions</text>
+<text x="20" y="111" fill="#9AA6B2" font-family="monospace" font-size="13">iterate with evidence</text>
+</g>
+
+<g transform="translate(874 84)">
+<rect width="292" height="126" rx="14" fill="#12151B" stroke="#313845"/>
+<text x="20" y="29" fill="#C9D1D9" font-family="monospace" font-size="13">CURRENT VECTOR</text>
+<text x="20" y="61" fill="#F0F6FC" font-family="monospace" font-size="20" font-weight="700">AI × SOFTWARE</text>
+<text x="20" y="89" fill="#F0F6FC" font-family="monospace" font-size="20" font-weight="700">× AUTOMATION</text>
+<text x="20" y="111" fill="#39FFB6" font-family="monospace" font-size="13">status: actively building</text>
+</g>
+</svg>
