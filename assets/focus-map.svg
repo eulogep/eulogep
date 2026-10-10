@@ -24,4 +24,5 @@
   <text x="50" y="310" fill="#8B949E" font-size="15">north_star:</text>
   <text x="162" y="310" fill="#39FFB6" font-size="17">turn ideas into reliable, useful software</text>
 </g>
+<g pointer-events="none"><circle cx="295" cy="180" r="5" fill="#39FFB6"><animate attributeName="opacity" values=".15;1;.15" dur="3s" repeatCount="indefinite"/></circle><circle cx="580" cy="180" r="5" fill="#40C9FF"><animate attributeName="opacity" values=".15;1;.15" dur="3s" begin=".7s" repeatCount="indefinite"/></circle><circle cx="865" cy="180" r="5" fill="#F2B84B"><animate attributeName="opacity" values=".15;1;.15" dur="3s" begin="1.4s" repeatCount="indefinite"/></circle></g>
 </svg>
