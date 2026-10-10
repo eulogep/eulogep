@@ -5,4 +5,5 @@
 <text x="270" y="55" fill="url(#f)" font-family="monospace" font-size="22" font-weight="700">"ideas &gt; code &gt; impact"</text>
 <text x="48" y="100" fill="#39FFB6" font-family="monospace" font-size="21">ideas &gt; code &gt; impact</text>
 <rect x="300" y="82" width="10" height="24" fill="#39FFB6"><animate attributeName="opacity" values="1;0;1" dur="1.05s" repeatCount="indefinite"/></rect>
+<path d="M0 140H240" stroke="#39FFB6" stroke-width="2" opacity=".55"><animateTransform attributeName="transform" type="translate" from="-240 0" to="1200 0" dur="14s" repeatCount="indefinite"/></path>
 </svg>
